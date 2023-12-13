@@ -30,8 +30,8 @@ public class App {
             System.out.print("Password \t: ");
             inputPassword = scanner.nextLine();
             System.out.println("Verifikasi anda tidak robot!");
-            System.out.println("Kode Captcha \t : " + captcha);
-            System.out.print("Entry Captcha : ");
+            System.out.println("Kode Captcha \t: " + captcha);
+            System.out.print("Entry Captcha \t: ");
             inputCaptcha = scanner.nextLine();
             System.out.println("------------------------");
 
